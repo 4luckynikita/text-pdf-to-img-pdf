@@ -1,3 +1,6 @@
+# Project specific - ignoring input and output PDFs
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
